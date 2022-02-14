@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PRoNIAasMwnDuF/nb2DEN1PDVR1waa02Tax4nOSREUWg3Gf3xTwAxqpT1XhRy1QTyb+PniBUk1JcE4acCYZdOA==",
+  "success": true,
+  "projectFilePath": "E:\\10º\\PSI\\Modulo 7\\ex1M7_TratamentoFicheiros\\ex1M7_TratamentoFicheiros\\ex1M7_TratamentoFicheiros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\sarav\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\sarav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\sarav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

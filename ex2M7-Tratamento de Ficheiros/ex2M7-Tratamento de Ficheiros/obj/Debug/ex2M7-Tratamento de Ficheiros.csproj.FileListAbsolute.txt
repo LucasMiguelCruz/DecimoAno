@@ -1,0 +1,21 @@
+E:\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\bin\Debug\ex2M7-Tratamento de Ficheiros.exe.config
+E:\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\bin\Debug\ex2M7-Tratamento de Ficheiros.exe
+E:\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\bin\Debug\ex2M7-Tratamento de Ficheiros.pdb
+E:\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7-Tratamento de Ficheiros.csprojAssemblyReference.cache
+E:\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7_Tratamento_de_Ficheiros.Form1.resources
+E:\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7_Tratamento_de_Ficheiros.Properties.Resources.resources
+E:\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7-Tratamento de Ficheiros.csproj.GenerateResource.cache
+E:\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7-Tratamento de Ficheiros.exe
+E:\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7-Tratamento de Ficheiros.pdb
+E:\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7_Tratamento_de_Ficheiros.FormBrowser.resources
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\bin\Debug\ex2M7-Tratamento de Ficheiros.exe.config
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\bin\Debug\ex2M7-Tratamento de Ficheiros.exe
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\bin\Debug\ex2M7-Tratamento de Ficheiros.pdb
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7-Tratamento de Ficheiros.csprojAssemblyReference.cache
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7_Tratamento_de_Ficheiros.Form1.resources
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7_Tratamento_de_Ficheiros.FormBrowser.resources
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7_Tratamento_de_Ficheiros.Properties.Resources.resources
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7-Tratamento de Ficheiros.csproj.GenerateResource.cache
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7-Tratamento de Ficheiros.csproj.CoreCompileInputs.cache
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7-Tratamento de Ficheiros.exe
+E:\10º\PSI\Modulo 7\ex2M7-Tratamento de Ficheiros\ex2M7-Tratamento de Ficheiros\obj\Debug\ex2M7-Tratamento de Ficheiros.pdb

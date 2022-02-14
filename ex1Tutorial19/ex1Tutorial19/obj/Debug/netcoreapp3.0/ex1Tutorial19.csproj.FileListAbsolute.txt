@@ -1,0 +1,11 @@
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\bin\Debug\netcoreapp3.0\ex1Tutorial19.exe
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\bin\Debug\netcoreapp3.0\ex1Tutorial19.deps.json
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\bin\Debug\netcoreapp3.0\ex1Tutorial19.runtimeconfig.json
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\bin\Debug\netcoreapp3.0\ex1Tutorial19.runtimeconfig.dev.json
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\bin\Debug\netcoreapp3.0\ex1Tutorial19.dll
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\bin\Debug\netcoreapp3.0\ex1Tutorial19.pdb
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\obj\Debug\netcoreapp3.0\ex1Tutorial19.csprojAssemblyReference.cache
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\obj\Debug\netcoreapp3.0\ex1Tutorial19.AssemblyInfoInputs.cache
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\obj\Debug\netcoreapp3.0\ex1Tutorial19.AssemblyInfo.cs
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\obj\Debug\netcoreapp3.0\ex1Tutorial19.dll
+E:\PSI\Modulo 7\ex1Tutorial19\ex1Tutorial19\obj\Debug\netcoreapp3.0\ex1Tutorial19.pdb

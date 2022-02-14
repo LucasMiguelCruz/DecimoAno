@@ -1,0 +1,11 @@
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\bin\Debug\netcoreapp3.0\ex2Tutorial20.exe
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\bin\Debug\netcoreapp3.0\ex2Tutorial20.deps.json
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\bin\Debug\netcoreapp3.0\ex2Tutorial20.runtimeconfig.json
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\bin\Debug\netcoreapp3.0\ex2Tutorial20.runtimeconfig.dev.json
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\bin\Debug\netcoreapp3.0\ex2Tutorial20.dll
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\bin\Debug\netcoreapp3.0\ex2Tutorial20.pdb
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\obj\Debug\netcoreapp3.0\ex2Tutorial20.csprojAssemblyReference.cache
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\obj\Debug\netcoreapp3.0\ex2Tutorial20.AssemblyInfoInputs.cache
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\obj\Debug\netcoreapp3.0\ex2Tutorial20.AssemblyInfo.cs
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\obj\Debug\netcoreapp3.0\ex2Tutorial20.dll
+E:\PSI\Modulo 7\ex2Tutorial20\ex2Tutorial20\obj\Debug\netcoreapp3.0\ex2Tutorial20.pdb

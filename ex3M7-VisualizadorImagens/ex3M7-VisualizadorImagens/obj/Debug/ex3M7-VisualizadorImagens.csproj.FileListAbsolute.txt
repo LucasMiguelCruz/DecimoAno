@@ -1,0 +1,9 @@
+E:\PSI\Modulo 7\ex3M7-VisualizadorImagens\ex3M7-VisualizadorImagens\bin\Debug\ex3M7-VisualizadorImagens.exe.config
+E:\PSI\Modulo 7\ex3M7-VisualizadorImagens\ex3M7-VisualizadorImagens\bin\Debug\ex3M7-VisualizadorImagens.exe
+E:\PSI\Modulo 7\ex3M7-VisualizadorImagens\ex3M7-VisualizadorImagens\bin\Debug\ex3M7-VisualizadorImagens.pdb
+E:\PSI\Modulo 7\ex3M7-VisualizadorImagens\ex3M7-VisualizadorImagens\obj\Debug\ex3M7-VisualizadorImagens.csprojAssemblyReference.cache
+E:\PSI\Modulo 7\ex3M7-VisualizadorImagens\ex3M7-VisualizadorImagens\obj\Debug\ex3M7_VisualizadorImagens.Form1.resources
+E:\PSI\Modulo 7\ex3M7-VisualizadorImagens\ex3M7-VisualizadorImagens\obj\Debug\ex3M7_VisualizadorImagens.Properties.Resources.resources
+E:\PSI\Modulo 7\ex3M7-VisualizadorImagens\ex3M7-VisualizadorImagens\obj\Debug\ex3M7-VisualizadorImagens.csproj.GenerateResource.cache
+E:\PSI\Modulo 7\ex3M7-VisualizadorImagens\ex3M7-VisualizadorImagens\obj\Debug\ex3M7-VisualizadorImagens.exe
+E:\PSI\Modulo 7\ex3M7-VisualizadorImagens\ex3M7-VisualizadorImagens\obj\Debug\ex3M7-VisualizadorImagens.pdb

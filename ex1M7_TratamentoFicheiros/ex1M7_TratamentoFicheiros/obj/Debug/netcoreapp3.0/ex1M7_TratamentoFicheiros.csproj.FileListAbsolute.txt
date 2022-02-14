@@ -1,0 +1,22 @@
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.exe
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.deps.json
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.runtimeconfig.json
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.runtimeconfig.dev.json
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.dll
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.pdb
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\obj\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.csprojAssemblyReference.cache
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\obj\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.AssemblyInfoInputs.cache
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\obj\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.AssemblyInfo.cs
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\obj\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.dll
+E:\PSI\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\obj\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.pdb
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.exe
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.deps.json
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.runtimeconfig.json
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.runtimeconfig.dev.json
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.dll
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\bin\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.pdb
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\obj\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.csprojAssemblyReference.cache
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\obj\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.AssemblyInfoInputs.cache
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\obj\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.AssemblyInfo.cs
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\obj\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.dll
+E:\PSI\Modulo 7\ex1M7_TratamentoFicheiros\ex1M7_TratamentoFicheiros\obj\Debug\netcoreapp3.0\ex1M7_TratamentoFicheiros.pdb
